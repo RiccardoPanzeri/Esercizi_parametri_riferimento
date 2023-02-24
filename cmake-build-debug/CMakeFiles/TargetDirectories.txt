@@ -1,0 +1,3 @@
+C:/Users/ricca/Documents/GitHub/Esercizi_parametri_riferimento/cmake-build-debug/CMakeFiles/Esercizi_parametri_riferimento.dir
+C:/Users/ricca/Documents/GitHub/Esercizi_parametri_riferimento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ricca/Documents/GitHub/Esercizi_parametri_riferimento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
