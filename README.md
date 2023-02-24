@@ -1,2 +1,2 @@
 # Esercizi_parametri_riferimento
- Serie di esercizi generati da chatgpt sul passaggio di parametri per riferimento
+ Serie di esercizi proposti da chatgpt sul passaggio di parametri per riferimento
